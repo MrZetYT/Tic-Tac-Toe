@@ -1,0 +1,14 @@
+C:\Users\MrZet\source\repos\Lab1PPOIS\obj\Debug\net8.0\Lab1PPOIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrZet\source\repos\Lab1PPOIS\obj\Debug\net8.0\Lab1PPOIS.AssemblyInfoInputs.cache
+C:\Users\MrZet\source\repos\Lab1PPOIS\obj\Debug\net8.0\Lab1PPOIS.AssemblyInfo.cs
+C:\Users\MrZet\source\repos\Lab1PPOIS\obj\Debug\net8.0\Lab1PPOIS.csproj.CoreCompileInputs.cache
+C:\Users\MrZet\source\repos\Lab1PPOIS\bin\Debug\net8.0\Lab1PPOIS.exe
+C:\Users\MrZet\source\repos\Lab1PPOIS\bin\Debug\net8.0\Lab1PPOIS.deps.json
+C:\Users\MrZet\source\repos\Lab1PPOIS\bin\Debug\net8.0\Lab1PPOIS.runtimeconfig.json
+C:\Users\MrZet\source\repos\Lab1PPOIS\bin\Debug\net8.0\Lab1PPOIS.dll
+C:\Users\MrZet\source\repos\Lab1PPOIS\bin\Debug\net8.0\Lab1PPOIS.pdb
+C:\Users\MrZet\source\repos\Lab1PPOIS\obj\Debug\net8.0\Lab1PPOIS.dll
+C:\Users\MrZet\source\repos\Lab1PPOIS\obj\Debug\net8.0\refint\Lab1PPOIS.dll
+C:\Users\MrZet\source\repos\Lab1PPOIS\obj\Debug\net8.0\Lab1PPOIS.pdb
+C:\Users\MrZet\source\repos\Lab1PPOIS\obj\Debug\net8.0\Lab1PPOIS.genruntimeconfig.cache
+C:\Users\MrZet\source\repos\Lab1PPOIS\obj\Debug\net8.0\ref\Lab1PPOIS.dll
